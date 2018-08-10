@@ -33,4 +33,4 @@
       <a href="#contact" class="w3-bar-item w3-button">Contact : en construction</a> 
     </div>
   </div>
-  <!---->
+  <!--2-->
