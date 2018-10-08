@@ -1,4 +1,4 @@
-<!-- Image Header -->
+<!-- Image Header modif -->
   <div class="w3-display-container w3-animate-opacity">
     <img src="img/bandeau.jpg" alt="Bandeau" style="width:100%;max-height:600px;margin-top: 50px;">
     <p class="w3-small margin0">©Duhnat </p>
